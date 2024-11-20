@@ -1,4 +1,3 @@
-# README
 Hi there 👋, I’m Ravi Teja Kambhampati
 
 Aspiring Data Analyst | Front-End Developer
