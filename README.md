@@ -6,7 +6,7 @@ Aspiring Data Analyst | Front-End Developer
 
 📫 How to reach me:
 
-	•	Email: rknkn@umsystem.edu
+	•	Email: rknkn@umsystem.edu | ravitejakam@gmail.com
 	•	LinkedIn: Ravi Teja Kambhampati | https://www.linkedin.com/in/ravi-teja-kambhampati-2a77ba209/
 
 🚀 Technical Skills
