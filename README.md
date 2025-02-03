@@ -1,6 +1,6 @@
 Hi there 👋, I’m Ravi Teja Kambhampati
 
-Aspiring Data Analyst | Front-End Developer
+Aspiring Software Engineer | JavaScript Developer
 
 🌟 Master’s student in Computer Science (Data Science specialization) at the University of Missouri - Kansas City. Passionate about leveraging data, algorithms, and technology to create impactful solutions.
 
@@ -14,7 +14,7 @@ Aspiring Data Analyst | Front-End Developer
 	•	Languages: Python, JavaScript, Java, C
 	•	Frameworks & Libraries: ReactJS, Redux, TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn
 	•	Databases: SQL, MySQL
-	•	Cloud Platforms: AWS (EC2, S3, Lambda, CloudWatch)
+	•	Cloud Platforms: AWS (EC2)
 	•	Web Technologies: HTML, CSS, Tailwind CSS, Bootstrap
 
 📂 Notable Projects
