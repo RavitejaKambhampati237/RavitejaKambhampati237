@@ -50,6 +50,14 @@ Software Engineer, Think and Learn Pvt Ltd (BYJU’S)
 	•	Developed responsive UIs with ReactJS, Redux, Tailwind CSS, and Bootstrap.
 	•	Enhanced functionality and maintainability by creating reusable CSS utility components.
 	•	Followed Agile methodologies to streamline development and testing.
+ 
+ Software Engineer - Amdocs(Hyderabad,India) Nov 2022-June 2023
+ 
+        •Implemented state management using Redux for efficient data flow.Optimized website performance and SEO
+         improving page load speed
+        •Integrated RESTful APIs to fetch and display dynamic content.Ensured cross-browser compatibility and mobile
+         responsiveness.
+        •Worked in an Agile environment, participating in sprint planning and code reviews
 
 ⚡ What I’m currently learning
 
