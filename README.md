@@ -1,6 +1,6 @@
 👋 Hi there, I’m Ravi Teja Kambhampati
 
-Full Stack Developer | Front-End Developer | Java Developer
+Software Engineer | Full Stack Developer | Front-End Developer | Java Developer 
 
 🌟 Master’s student in Computer Science at the University of Missouri - Kansas City
 Passionate about leveraging technology, data, and algorithms to create impactful, scalable solutions.
@@ -50,7 +50,7 @@ Tools: Python, HTML, CSS
 
 💼 Professional Experience
 
-Full Stack Java Developer — Wells Fargo, San Francisco, CA (Jan 2024 – Present)
+Software Engineer — Wells Fargo, San Francisco, CA (Jan 2024 – Present)
 	•	Designed and developed RESTful APIs and microservices with Java 11, Spring Boot, Hibernate
 	•	Built scalable, secure backend services, optimized databases, and implemented ELK Stack and Splunk for observability
 	•	Developed responsive UIs using React and integrated real-time systems via Kafka and WebSocket
@@ -58,7 +58,7 @@ Full Stack Java Developer — Wells Fargo, San Francisco, CA (Jan 2024 – Prese
 
 ⸻
 
-Full Stack Developer — Amdocs, Hyderabad, India (Nov 2022 – June 2023)
+Software Engineer — Amdocs, Hyderabad, India (Nov 2022 – June 2023)
 	•	Developed backend microservices with Spring Boot and responsive frontend with ReactJS and Next.js
 	•	Integrated microservices with Kafka, optimized SQL performance, implemented JWT-based security
 	•	Enhanced SEO with SSR and lazy loading; automated deployments with Docker and Kubernetes on AWS
