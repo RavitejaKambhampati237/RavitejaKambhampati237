@@ -48,27 +48,6 @@ Tools: Python, HTML, CSS
 
 ⸻
 
-💼 Professional Experience
-
-Software Engineer — Wells Fargo, San Francisco, CA (Jan 2024 – Present)
-	•	Designed and developed RESTful APIs and microservices with Java 11, Spring Boot, Hibernate
-	•	Built scalable, secure backend services, optimized databases, and implemented ELK Stack and Splunk for observability
-	•	Developed responsive UIs using React and integrated real-time systems via Kafka and WebSocket
-	•	Managed deployments on AWS with Docker, Kubernetes, CI/CD pipelines, and CloudWatch
-
-⸻
-
-Software Engineer — Amdocs, Hyderabad, India (Nov 2022 – June 2023)
-	•	Developed backend microservices with Spring Boot and responsive frontend with ReactJS and Next.js
-	•	Integrated microservices with Kafka, optimized SQL performance, implemented JWT-based security
-	•	Enhanced SEO with SSR and lazy loading; automated deployments with Docker and Kubernetes on AWS
-
-⸻
-
-Software Engineer — BYJU’S (Toppr), Bengaluru, India (June 2021 – Nov 2022)
-	•	Modernized frontend by migrating to React 18, Webpack 5, achieving a 30% performance boost
-	•	Built reusable components and pixel-perfect interfaces using Tailwind CSS and Bootstrap
-	•	Integrated APIs with Redux and Axios, strengthened application performance with lazy loading and testing
 
 ⸻
 
