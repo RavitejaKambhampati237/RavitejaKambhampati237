@@ -1,6 +1,6 @@
 👋 Hi there, I’m Ravi Teja Kambhampati
 
-Software Engineer | Full Stack Developer | Front-End Developer | Java Developer 
+Software Engineer | Full Stack Developer | Front-End Developer | Java Developer | NodeJs Developer
 
 🌟 Master’s student in Computer Science at the University of Missouri - Kansas City
 Passionate about leveraging technology, data, and algorithms to create impactful, scalable solutions.
@@ -8,7 +8,7 @@ Passionate about leveraging technology, data, and algorithms to create impactful
 ⸻
 
 📫 How to Reach Me
-	•	✉️ Email: ravitejakambhampati23@gmail.com
+	•	✉️ Email: ravi.kambhampati23@gmail.com
 	•	💼 LinkedIn: Ravi Teja Kambhampati
 	•	📱 Phone: +1 (737) 703-9503
 
@@ -61,5 +61,5 @@ Tools: Python, HTML, CSS
 
 I’m always open to collaborations, exciting opportunities, or tech discussions. Feel free to reach out:
 
-✉️ ravitejakambhampati23@gmail.com
+✉️ ravi.kambhampati23@gmail.com
 📱 +1 (737) 703-9503
